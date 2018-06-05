@@ -11,5 +11,12 @@ Last autum and winter (Nov 2017 - Jan 2018), I worked with my ex-colleague, [San
 
 **Tae-hoon Kim and Sang Il Park, "Deep Context-Aware Descreening and Rescreening of Halftone Images", ACM SIGGRAPH 2018 ([Camera-ready](https://github.com/thnkim/thnkim.github.com/raw/master/DeepHalftoneDescreening.pdf))**
 
+
+*Rescreening and Editing:*
+
 <img src="descreen_teaser.png" width="1280">
+
+
+*Descreening:*
+
 <img src="descreen_results.png" width="1280">
