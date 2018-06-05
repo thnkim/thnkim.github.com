@@ -1,4 +1,4 @@
-# Tae-hoon Kim
+# Tae-hoon Kim (Pete)
 I was Principal Engineer of Intel Corporation until May 31, 2018.
 
 I was one of co-founders of Olaworks, inc., a computer vision start-up company that was acquired by Intel in 2012. 
